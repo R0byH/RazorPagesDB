@@ -7,3 +7,7 @@
 - Se creó la estructura base de las carpetas y archivos del proyecto.
 - Se instalaron las librerias necesarias para el funcionamiento.
 - Se configuró la cadena de conexión para la base de datos TareaDB
+
+### Fixed
+- Se corrigió un error en el modelo.
+- Se resolvió el problema con la cadena de conexión (error certificación).
