@@ -7,6 +7,9 @@
 - Se creó la estructura base de las carpetas y archivos del proyecto.
 - Se instalaron las librerias necesarias para el funcionamiento.
 - Se configuró la cadena de conexión para la base de datos TareaDB
+- Se creó el Context para la migración
+- Se realizó la migración (Add-Migration InitialCreate)
+- Se realizó la actualización a TareaDB (Update-Database)
 
 ### Fixed
 - Se corrigió un error en el modelo.
