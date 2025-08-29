@@ -1,5 +1,13 @@
 ﻿# CHANGELOG
 
+## [0.1.1] - 2025-08-28
+### Changed
+- Registrar el DBContext en el program.
+
+### Added
+- Crear páginas en Razor con Scaffolding (Agregar -> Nuevo elemento con Scaffolding -> Páginas Razor que usan EF CRUD -> )
+- Paquete Bogus (para crear datos falsos)
+
 ## [0.1.0] - 2025-08-26
 ### Added
 - Versión inicial del proyecto.
