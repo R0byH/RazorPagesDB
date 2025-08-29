@@ -1,5 +1,13 @@
 ﻿# CHANGELOG
 
+## [0.1.2] - 2025-08-29
+### Changed
+- Registrar el Seeder en el program.
+
+### Added
+- Agregamos la clase abstacta IDbInitializer (explicación en la misma clase)
+- Agregamos la clase Seeder para la siembre de datos, la misma contiene la lógica de la siembra de datos para la tabla Tarea
+
 ## [0.1.1] - 2025-08-28
 ### Changed
 - Registrar el DBContext en el program.
